@@ -1,6 +1,1 @@
-1. Não possuo arquivo na pasta Documentos
-
-2. Feito
-
-3.dotnet versao 10.0.103
-não tenho o GIT e NODE
+<img width="500" height="114" alt="image" src="https://github.com/user-attachments/assets/72476659-1bef-4fd5-8754-d631ac0f6081" />
